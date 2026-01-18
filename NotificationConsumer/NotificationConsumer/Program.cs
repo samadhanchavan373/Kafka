@@ -22,7 +22,7 @@
 //    smtpHost: "smtp.gmail.com",
 //    smtpPort: 587,
 //    fromEmail: "samadhanchavan373@gmail.com",
-//    fromPassword: "wcoh tugr zjlt yzkt"  // App-specific password!
+//    fromPassword: "wcoh tugr mmh yzkt"  // App-specific password!
 //);
 
 //var config = new ConsumerConfig
@@ -217,7 +217,7 @@ var emailService = new EmailService(
     smtpHost: "smtp.gmail.com",
     smtpPort: 587,
     fromEmail: "samadhanchavan373@gmail.com",
-    fromPassword: "wcoh tugr zjlt yzkt"
+    fromPassword: "wfhgdfhthflt yzkt"
 );
 
 var config = new ConsumerConfig
